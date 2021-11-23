@@ -1,0 +1,8 @@
+.special {
+    color: #3e7e82
+}
+
+.done{
+    text-decoration: line-through;
+    color: #666
+}
